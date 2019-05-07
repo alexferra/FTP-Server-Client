@@ -1,3 +1,5 @@
+This project was a school assignment completed in 2015 and alter uploaded to github. 
+
 # FTP-Server-Client
 
 multi-threaded FTP client-server for windows. The client can connect via command prompt, access the server, manage directories
